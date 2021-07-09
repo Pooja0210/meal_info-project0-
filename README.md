@@ -25,6 +25,7 @@ Following commands are listed below:
 4.DELETE
 5.DROP 
 6.SORT 
+7.LIMIT
 
 
 
