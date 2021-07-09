@@ -17,3 +17,14 @@ ii)-1 - Descending order
 10.update_many()
 11.limit()
 
+Using mysql for relational database:- 
+Following commands are listed below:
+1.SELECT
+2.UPDATE
+3.INSERT
+4.DELETE
+5.DROP 
+6.SORT 
+
+
+
