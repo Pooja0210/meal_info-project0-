@@ -24,10 +24,10 @@ drop table mytable;
 
 -- Sort in a descending order
 SELECT *FROM mytable
-ORDER BY cuisine ;
+ORDER BY cuisine DESC ;
 
 
 -- Sort in an ascending order
 SELECT *FROM mytable
-ORDER BY cuisine DESC;
+ORDER BY cuisine;
 
