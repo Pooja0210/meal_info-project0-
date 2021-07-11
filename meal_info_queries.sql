@@ -22,6 +22,12 @@ values(1109, "Snacks","Indian");
 -- drop a table
 drop table mytable;
 
--- Sort in an order
+-- Sort in a descending order
+SELECT *FROM mytable
+ORDER BY cuisine ;
+
+
+-- Sort in an ascending order
 SELECT *FROM mytable
 ORDER BY cuisine DESC;
+
