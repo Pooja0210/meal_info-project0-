@@ -1,4 +1,5 @@
 # meal_info-project0-description-
+This is a meal-info delivery System in which we can interact with the data with full CRUD functionality and perform operations to get the desired result or output. 
 
 # Database Usage
 Using MongoDB for NOSQL database and mysql for relational database
@@ -32,6 +33,14 @@ Following mysql commands are listed below:
 To create a meal_info delivery system in which we have to perform CRUD operations.
 
 # Results:
+1.We can insert the record of the one customer by using insert_one and many customers by using insert_many.
+2.We can find the records of one customer or many customers by using find_one and find_many .
+3.We can delete the records  of one customer or many customers.
+4.We can sort the records to get the result in particular order.
+5.We can also view the inserted IDs of the inserted records.
+6.We can also update the old records with the newer ones.
+7.We can limit the data to view upto the limited value of the records.
+
 Snaps are attached in the file section.
 
 # Requirements 
