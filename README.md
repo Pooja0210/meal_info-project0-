@@ -1,6 +1,7 @@
-# meal_info-project0-
+# meal_info-project0-description-
 
-Using MongoDB for NOSQL database
+# Database Usage
+Using MongoDB for NOSQL database and mysql for relational database
 
 These are the following MongoDB commands that i am using in this project0:-
 1.insert_one()
@@ -17,8 +18,8 @@ ii)-1 - Descending order
 10.update_many()
 11.limit()
 
-Using mysql for relational database:- 
-Following commands are listed below:
+
+Following mysql commands are listed below:
 1.SELECT
 2.UPDATE
 3.INSERT
@@ -26,6 +27,20 @@ Following commands are listed below:
 5.DROP 
 6.SORT 
 7.LIMIT
+
+# Problem statement:
+To create a meal_info delivery system in which we have to perform CRUD operations.
+
+# Results:
+Snaps are attached in the file section.
+
+# Requirements 
+Tech Stack:
+1. MongoDB Compass : A GUI for MongoDB. Visually explore your data. Run ad hoc queries in seconds. Interact with your data with full CRUD functionality. View and optimize your query performance.
+2. MySQL WorkBench :  A unified visual tool for database architects, developers, and DBAs.
+3.Jupyter Notebook : Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+Package:
 
 
 
